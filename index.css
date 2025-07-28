@@ -1,0 +1,176 @@
+body{
+    width: 100%;
+    min-height: 100vh;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+.Parent
+{
+    display: flex;
+    flex-direction: row;
+    
+    margin-top: 20px;
+    flex-wrap:wrap;
+    margin-left:100px;
+   
+}
+
+
+.firstrow{
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    
+}
+.secondrow
+{
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+}
+
+    
+.thirdrow
+{
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+}
+
+.fourthrow
+{
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+}
+
+.fifthrow
+{
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+}
+.sixthrow
+{
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+}
+
+.keys
+{
+    height: 75px;
+    width: 75px;
+    background-color: aquamarine;
+    border: 1px solid black;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+     margin: 0 5px 5px;
+
+}
+#K1{
+    width: 100px;
+}
+
+#K27
+{
+    width: 100px;
+
+}
+#K28
+{
+     width: 100px;
+
+}
+#K54 {
+    width: 130px;
+    height: 75px;
+    margin: 0 5px;
+}
+
+#K42
+{
+    width: 131px;
+    height: 75px;
+    margin: 0 5px;
+}
+
+#K55
+{
+    width: 174px;
+    height: 75px;
+    margin: 0 5px;
+}
+
+#K66
+{
+    width: 174px;
+    height: 75px;
+    margin: 0 5px;
+}
+#K67{
+
+ width: 75px;
+ }
+
+#K68
+{
+     width: 80px;
+}
+
+#K68
+{
+     width: 70px;
+}
+
+#K70
+{
+    width: 80px;
+}
+
+#K71
+{
+    width: 448px;
+    height: 75px;
+    margin: 0 5px;
+}
+#K74
+{
+    height: 35PX;
+  margin-top: 40px;
+ 
+}
+#K73{
+    flex-direction: column;
+}
+#K75
+{
+    height: 35PX;
+  margin-top: 40px;
+}
+#K76
+{
+    height: 35PX;
+  margin-top: 40px;
+}
+
+.arrow-row {
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+  justify-content: center;
+ 
+}
+
+.arrow-column {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+}
+#K74, #K75, #K76, #K77 {
+  height: 35px;
+  width: 75px;
+  margin: 0 5px;
+}
