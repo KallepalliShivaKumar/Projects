@@ -9,7 +9,6 @@ body{
 {
     display: flex;
     flex-direction: row;
-    
     margin-top: 20px;
     flex-wrap:wrap;
     margin-left:100px;
@@ -62,12 +61,15 @@ body{
 {
     height: 75px;
     width: 75px;
-    background-color: aquamarine;
+    background-color:black;
     border: 1px solid black;
     display: flex;
     align-items: center;
     justify-content: center;
      margin: 0 5px 5px;
+     color: aliceblue;
+     
+
 
 }
 #K1{
@@ -161,6 +163,7 @@ body{
   flex-direction: row;
   align-items: center;
   justify-content: center;
+  
  
 }
 
@@ -168,9 +171,10 @@ body{
   display: flex;
   flex-direction: column;
   align-items: center;
+
 }
 #K74, #K75, #K76, #K77 {
   height: 35px;
   width: 75px;
-  margin: 0 5px;
+  margin: 2px 5px 5px;
 }
