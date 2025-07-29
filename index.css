@@ -61,16 +61,13 @@ body{
 {
     height: 75px;
     width: 75px;
-    background-color:black;
+    background-color: black;
     border: 1px solid black;
     display: flex;
     align-items: center;
     justify-content: center;
      margin: 0 5px 5px;
-     color: aliceblue;
-     
-
-
+    color: azure;
 }
 #K1{
     width: 100px;
@@ -176,5 +173,5 @@ body{
 #K74, #K75, #K76, #K77 {
   height: 35px;
   width: 75px;
-  margin: 2px 5px 5px;
+  margin: 5px 5px;
 }
