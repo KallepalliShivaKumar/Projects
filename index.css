@@ -76,7 +76,7 @@ body{
 
 .keys:hover
 {
-    box-shadow:  -5px 0px 5px grey , 5px 0px 5px grey,0px -5px 5px grey , 0px 5px 5px grey  ;
+    box-shadow:  -5px 0px 5px grey , 5px 0px 5px grey,0px -5px 5px grey , 0px 5px 5px rgb(183, 170, 170)  ;
 }
 
 #K1{
