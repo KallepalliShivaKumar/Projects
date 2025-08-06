@@ -67,8 +67,18 @@ body{
     align-items: center;
     justify-content: center;
      margin: 0 5px 5px;
-    color: azure;
+     color: azure;
+     cursor: pointer;
 }
+
+   
+      
+
+.keys:hover
+{
+    box-shadow:  -5px 0px 5px grey , 5px 0px 5px grey,0px -5px 5px grey , 0px 5px 5px grey  ;
+}
+
 #K1{
     width: 100px;
 }
